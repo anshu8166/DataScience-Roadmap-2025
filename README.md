@@ -118,19 +118,19 @@
 ---
 ## Projects:
 1. Credit Card Fraud Detection using Autoencoders in Keras | TensorFlow for Hackers
-Assess credit risk by applying probability distributions and statistical analysis on credit card data.
+Assess credit risk by applying probability distributions and statistical analysis on credit card data.This project employs autoencoders—a type of neural network—to detect fraudulent credit card transactions. By learning the patterns of normal transactions, the autoencoder can identify anomalies that may indicate fraud. This approach leverages unsupervised learning, making it effective even when labeled fraudulent data is scarce.
 
 2. Predictive Maintenance using Machine Learning by Medini Kumar Bora
-Using machine learning goes beyond traditional failure prevention and predicts equipment failure through data analysis
+This project focuses on predicting equipment failures before they occur, allowing for timely maintenance and reduced downtime. By analyzing historical sensor data and operational metrics, machine learning models can forecast potential issues, optimizing maintenance schedules and extending equipment lifespan.
 
 3. Customer Segmentation using K Means: A Step by Step Guide by Leonardo A
-Clustering algorithms can group similar customers, revealing distinct segments in your customer base
+This project utilizes K-Means clustering to segment customers based on shared characteristics. By identifying distinct customer groups, businesses can tailor their marketing strategies, improve customer satisfaction, and enhance overall profitability. The iterative process of training, testing, and tweaking ensures the model's effectiveness.
 
 4. Harvestify Github
-A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
+Harvestify is a machine learning-based website that assists farmers by recommending the best crops to cultivate, suitable fertilizers, and diagnosing crop diseases. By inputting specific parameters, users receive data-driven suggestions, promoting efficient farming practices and potentially increasing yields.
 
 5. Machine Learning for Retail Demand Forecasting by Samir Saci
-Analyze vast amounts of data, predicting demand with unprecedented accuracy.
+This project compares different methods for forecasting retail demand, specifically contrasting XGBoost models with rolling mean approaches. Accurate demand forecasting enables retailers to optimize inventory levels, reduce stockouts, and enhance customer satisfaction. The study provides insights into the effectiveness of machine learning techniques in retail settings.
 
 [More Projects](https://youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M&si=By5k7NJQ9sl_yzGu)
 
