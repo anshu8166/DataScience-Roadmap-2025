@@ -1,4 +1,4 @@
-# Data Science Engineer Roadmap 2025 
+# Data Analyst and Data Science Roadmap 2025 
 > ## With Resources and Projects By Kushal Vijay
 
 
