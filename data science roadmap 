@@ -1,0 +1,96 @@
+Data Analyst and Data Science Roadmap 2025
+With Resources and Projects By Kushal Vijay
+GitHub KushalVijay  Linkedin: Kushal Vijay
+
+_- visual selection (3)
+
+1. Fundamentals
+Python, SQL, Linux
+Topics: Python basics, SQL queries, Bash scripting
+Resources:
+Python
+SQL
+Linux Command Line for Beginners
+Mathematics for Data Science
+Topics: Linear Algebra, Probability, Statistics
+Resources:
+Mathematics for Data Science Playlist
+2. Data Analysis
+Pandas, NumPy, SQL
+Topics: Data Cleaning, Feature Engineering
+Resources:
+NumPy
+Pandas
+SQL Tutorials
+3. Data Visualization
+Matplotlib
+Resources:
+Python Data Visualization
+Power BI, Tableau (Learning only 1 of them is suffice)
+Resources:
+Power BI
+Tableau
+4. Machine Learning
+Supervised & Unsupervised Learning
+Topics: Regression, Classification, Clustering
+Resources:
+Machine Learning Full Course
+Scikit-Learn (ML Algorithms), TensorFlow/PyTorch (Deep Learning Algorithms)
+Resources:
+Scikit-Learn Crash Course
+TensorFlow Course
+PyTorch Course
+Model Evaluation & Optimization (Don't spend a lot of time here)
+Topics: Hyperparameter Tuning, Cross-Validation
+Resources:
+Model Evaluation, Cross Validation
+5. Big Data & Cloud Computing
+Hadoop, Spark, Databricks (Advance Section)
+Resources:
+Big Data Course
+AWS, GCP, Azure
+Resources:
+AWS Machine Learning - AWS
+Google Cloud ML - Google
+Azure ML
+6. Deep Learning & AI
+Neural Networks, CNN, RNN
+Resources:
+Deep Learning Specialization
+LLMs & Generative AI
+Resources:
+GenAI Beginner Course
+Transformers & LLMs - Hugging Face
+7. Deployment & MLOps
+Flask, Docker
+Resources:
+Flask Tutorial
+Docker
+CI/CD for ML, MLFlow, Kubeflow
+Resources:
+MLOps Tutorial
+8. Projects & Open Source
+Kaggle Competitions, GitHub Contributions
+Resources:
+Kaggle Datasets
+Contributing to Open Source
+Projects:
+Credit Card Fraud Detection using Autoencoders in Keras | TensorFlow for Hackers Assess credit risk by applying probability distributions and statistical analysis on credit card data.This project employs autoencoders—a type of neural network—to detect fraudulent credit card transactions. By learning the patterns of normal transactions, the autoencoder can identify anomalies that may indicate fraud. This approach leverages unsupervised learning, making it effective even when labeled fraudulent data is scarce.
+
+Predictive Maintenance using Machine Learning by Medini Kumar Bora This project focuses on predicting equipment failures before they occur, allowing for timely maintenance and reduced downtime. By analyzing historical sensor data and operational metrics, machine learning models can forecast potential issues, optimizing maintenance schedules and extending equipment lifespan.
+
+Customer Segmentation using K Means: A Step by Step Guide by Leonardo A This project utilizes K-Means clustering to segment customers based on shared characteristics. By identifying distinct customer groups, businesses can tailor their marketing strategies, improve customer satisfaction, and enhance overall profitability. The iterative process of training, testing, and tweaking ensures the model's effectiveness.
+
+Harvestify Github Harvestify is a machine learning-based website that assists farmers by recommending the best crops to cultivate, suitable fertilizers, and diagnosing crop diseases. By inputting specific parameters, users receive data-driven suggestions, promoting efficient farming practices and potentially increasing yields.
+
+Machine Learning for Retail Demand Forecasting by Samir Saci This project compares different methods for forecasting retail demand, specifically contrasting XGBoost models with rolling mean approaches. Accurate demand forecasting enables retailers to optimize inventory levels, reduce stockouts, and enhance customer satisfaction. The study provides insights into the effectiveness of machine learning techniques in retail settings.
+
+More Projects
+
+📌 How to Use This Roadmap?
+Follow the roadmap step by step 🔥
+Choose one backend + one ML framework
+Work on real-world projects & open source
+Deploy your models on cloud platforms
+Keep learning MLOps & scaling techniques
+🚀 Happy Learning!
