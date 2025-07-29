@@ -1,5 +1,5 @@
 # Data Analyst and Data Science Roadmap 2025 
-> ## With Resources and Projects By Kushal Vijay
+> ## With Resources and Projects By Anshu Kumar Tiwari 
 
 
 
